@@ -7,7 +7,7 @@ I am an experienced software engineer with a proven track record in leading agil
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mfedatto&count_private=true&show_icons=true&theme=dracula" /> </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50px" />
   JavaScript
   SQL Server
   Redis

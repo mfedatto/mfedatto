@@ -12,7 +12,7 @@ I am an experienced software engineer with a proven track record in leading agil
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mauriciofedatto/](https://www.linkedin.com/in/mauriciofedatto/)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mfedatto" alt="mfedatto" /></a> </p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mfedatto&theme=onedark" alt="mfedatto" /></a></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mauriciofedatto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mauriciofedatto" height="30" width="40" /></a>

@@ -1,6 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-## Who Am I? (Are you sure you wanna know?)
+## Who Am I
 
 I am an experienced software engineer with a proven track record in leading agile transformations and delivering high-quality software solutions. My expertise lies in filling gaps and fostering a culture of collaboration and innovation. With a passion for technology and a dedication to continuous improvement, I thrive in dynamic environments where I can make a significant impact.
 

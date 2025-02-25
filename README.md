@@ -8,7 +8,7 @@ I am an experienced software engineer with a proven track record in leading agil
 
 - 🌱 I’m currently learning **Docker, infra as code, Kotlin, Angular CLI**
 
-- 📫 How to reach me **mfedatto@gmail.com**
+- 📫 How to reach me **mfedatto@duck.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mauriciofedatto/](https://www.linkedin.com/in/mauriciofedatto/)
 
